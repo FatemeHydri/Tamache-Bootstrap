@@ -1,0 +1,18 @@
+$navbar-light-hover-color: #fff;
+$accordion-button-bg: #14181B;
+$accordion-button-active-bg: #14181B;
+$accordion-button-active-color: #14181B;
+$accordion-border-color: #14181B;
+$accordion-border-radius: 0px;
+$accordion-button-focus-border-color:  #14181B;
+$accordion-inner-border-radius: 0px;
+$accordion-button-focus-box-shadow:  #14181B;
+$accordion-button-icon: url(../assets/images/Group\ 115.svg); 
+$accordion-button-active-icon: url(../assets/images/Line\ 9.svg);
+$accordion-icon-width: 20px;
+$accordion-icon-transform: rotate(0deg); 
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
